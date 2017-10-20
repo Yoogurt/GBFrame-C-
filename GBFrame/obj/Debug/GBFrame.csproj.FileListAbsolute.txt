@@ -1,0 +1,6 @@
+D:\VC WorkSpace\GBFrame\GBFrame\bin\Debug\GBFrame.pdb
+D:\VC WorkSpace\GBFrame\GBFrame\obj\Debug\GBFrame.csprojResolveAssemblyReference.cache
+D:\VC WorkSpace\GBFrame\GBFrame\obj\Debug\GBFrame.csproj.CoreCompileInputs.cache
+D:\VC WorkSpace\GBFrame\GBFrame\obj\Debug\GBFrame.pdb
+D:\VC WorkSpace\GBFrame\GBFrame\bin\Debug\GBFrame.exe
+D:\VC WorkSpace\GBFrame\GBFrame\obj\Debug\GBFrame.exe
