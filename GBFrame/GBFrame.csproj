@@ -45,9 +45,9 @@
   <ItemGroup>
     <Compile Include="Config\ConfigFile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test\ConfigFileTest.cs" />
     <Compile Include="Test\ContinutyThreadTest.cs" />
     <Compile Include="ThreadSupport\ContinutyThread.cs" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

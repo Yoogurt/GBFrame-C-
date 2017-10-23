@@ -4,7 +4,7 @@ using System.Threading;
 
 namespace GBFrame.ThreadSupport
 {
-    class ContinutyThread
+    public sealed class ContinutyThread
     {
         public readonly Thread RunThread;
 

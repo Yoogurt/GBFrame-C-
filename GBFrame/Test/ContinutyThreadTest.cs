@@ -5,7 +5,7 @@ namespace GBFrame.Test
 {
     class ContinutyThreadTest
     {
-        static void Main(String[] arg)
+        static void Main2(String[] arg)
         {
             var thread = new ContinutyThread();
             thread.Start();
